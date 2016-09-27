@@ -1,0 +1,5 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\ParserWaybill\obj\Debug\WaybillParser.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\ParserWaybill\bin\Debug\ParserWaybill.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\ParserWaybill\bin\Debug\ParserWaybill.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\ParserWaybill\obj\Debug\ParserWaybill.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\ParserWaybill\obj\Debug\ParserWaybill.pdb

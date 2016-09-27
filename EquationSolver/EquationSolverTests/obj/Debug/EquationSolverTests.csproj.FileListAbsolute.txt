@@ -1,0 +1,8 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\obj\Debug\EquationSolverTests.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\bin\Debug\EquationSolverTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\bin\Debug\EquationSolverTests.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\bin\Debug\EquationSolver.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\bin\Debug\EquationSolver.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\obj\Debug\EquationSolverTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolverTests\obj\Debug\EquationSolverTests.pdb

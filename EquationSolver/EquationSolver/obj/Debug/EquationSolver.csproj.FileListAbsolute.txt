@@ -1,0 +1,5 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolver\obj\Debug\EquationSolver.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolver\bin\Debug\EquationSolver.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolver\bin\Debug\EquationSolver.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolver\obj\Debug\EquationSolver.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\EquationSolver\obj\Debug\EquationSolver.pdb

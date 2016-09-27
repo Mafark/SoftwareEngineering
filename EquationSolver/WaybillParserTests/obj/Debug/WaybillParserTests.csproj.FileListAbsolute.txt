@@ -1,0 +1,8 @@
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\bin\Debug\WaybillParserTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\bin\Debug\WaybillParserTests.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\bin\Debug\ParserWaybill.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\bin\Debug\ParserWaybill.pdb
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\obj\Debug\WaybillParserTests.csprojResolveAssemblyReference.cache
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\obj\Debug\WaybillParserTests.dll
+C:\Users\Danger\Desktop\Visual Studio\LoD\Lesson1\EquationSolver\WaybillParserTests\obj\Debug\WaybillParserTests.pdb
